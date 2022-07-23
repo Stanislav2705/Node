@@ -1,1 +1,5 @@
-console.log('qweqweqwe')
+
+import * as apiService from './js/api-service'
+
+
+console.log(apiService)
